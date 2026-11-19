@@ -1,0 +1,6 @@
+url: https://github.com/Stontar/dsh-approval-alert
+name: Stontar/dsh-approval-alert
+category: notify
+description:
+  en: 'Alerts you on the Windows desktop when DSH is waiting for an approval or an answer, with a topmost popup, the alert sound, and a flashing taskbar button.'
+  zh: '当 DSH 在等待审批或回答时，在 Windows 桌面提醒你：置顶弹窗、提示音和任务栏闪烁。'
