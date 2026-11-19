@@ -1,0 +1,6 @@
+url: https://github.com/Stontar/dsh-selection-translate
+name: Stontar/dsh-selection-translate
+category: ui
+description:
+  en: 'Translates the text you drag-select inside a reply through a right-click action and a side panel, without adding a turn to the conversation.'
+  zh: '右键翻译回复里选中的文字，译文显示在侧边面板，不额外占用对话轮次。'
